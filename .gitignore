@@ -1,0 +1,16 @@
+.idea
+.project
+.classpath
+.DS_Store
+.settings
+target
+bin
+.mvn
+.scannerwork
+lib
+logs
+mvnw
+mvnw.cmd
+pom.rng
+sonar-scanner-3.0.1.733-macosx/
+*.iml
